@@ -1,7 +1,7 @@
 # Notes for Class 7 - Saturday, September 13th, 2025
 ## Introduction to EC2 and Simple Web Server Deployment
 
----
+----
 
 ## Table of Contents
 
